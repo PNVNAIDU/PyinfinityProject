@@ -30,7 +30,7 @@ public class DriverIntiation {
 		
 //		WebElement element = driver.findElement(By.xpath("//button[@class='btn btn-outline-info mt-2 mb-2 float-end']"));
 //	
-//		Thread.sleep(3000);
+//		Thread.sleep(6000);
 //		
 //		driver.switchTo().alert().accept();
 //		
