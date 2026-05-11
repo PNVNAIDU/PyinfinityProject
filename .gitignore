@@ -1,9 +1,9 @@
 .classpath
 .mvn/
 .project
- .settings/
- bin/
-
- pom.xml
+.settings/
+bin/
+target/
+pom.xml
  
   
